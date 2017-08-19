@@ -1,0 +1,81 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin-left: 15%;
+  margin-right:15%;
+}
+.line{
+  border-bottom: 10px solid black;
+  width: 100%;
+
+}
+.recipe{
+  top:60%;
+  display: block;
+}
+.recipeImage{
+  width: 100%;
+  display: block;
+}
+.dateCategory{
+  color: gray;
+  font-size: .7em;
+}
+.print{
+  float:right;
+
+}
+.print p{
+  display: inline;
+  color: gray;
+  margin: 10px 0px 10px 0px;
+}
+.title{
+  display: block;
+}
+
+.clear{
+  clear: both;
+}
+.header{
+position: relative;
+}
+.delicious{
+width:20%;
+display: inline;
+
+
+}
+#logo{
+  display: inline;
+}
+#blogTitle{
+    display: inline;
+    width: 10%;
+  }
+#blogMotto{
+    display: inline;
+    margin: 0%;
+    width: 10%;
+    t
+}
+.socialBtns{
+  display:inline;
+  width: 35%;
+  float: right;
+
+}
+.ingredients{
+  background-image: url(img/list-bg.png);
+  margin-top: 5%;
+  margin-bottom:5%;
+}
+
+.ingredients ul {
+padding: 5%;
+padding-left: 5%;
+
+}
+.ingredients li{
+}
